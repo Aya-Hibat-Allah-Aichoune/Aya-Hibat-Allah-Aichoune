@@ -1,5 +1,5 @@
  ## About Me:
- Hi there, I'm Aya <br><br>I am a passionate **Junior Data Engineer ** and **Software Developer** dedicated to building intelligent, high-performance applications.
+ Hi there, I'm Aya <br><br>I am a passionate **Junior Data Engineer** and **Software Developer** dedicated to building intelligent, high-performance applications.
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/djiha_ne_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aya-hibat-allah-aichoune/) 
 
